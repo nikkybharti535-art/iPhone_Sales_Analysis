@@ -1,6 +1,6 @@
 # 📱 iPhone Sales Analysis
 
-## 🎯 Objective
+##  Objective
 To analyze iPhone pricing, ratings, and customer behavior.
 
 ## 🛠 Tools Used
@@ -20,7 +20,7 @@ To analyze iPhone pricing, ratings, and customer behavior.
 - Products with more reviews show stable ratings
 - Apple follows a premium pricing strategy
 
-## 📌 Conclusion
+##  Conclusion
 Customer satisfaction depends more on product quality and brand value than price.
 
 ## ⚠️ Limitations
